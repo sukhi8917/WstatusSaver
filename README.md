@@ -21,12 +21,5 @@ Discover a wide range of user-centric features that elevate your status-saving e
 #### Drag-and-Drop Media Handling: Effortlessly manage saved statuses.
 #### Auto Play Videos: Preview videos instantly for a smoother experience.
 
-# Screenshots
-![WhatsApp Image 2024-12-16 at 18 11 50](https://github.com/user-attachments/assets/b5a6a833-4d0d-40ea-ba47-1859d39229de)
-![WhatsApp Image 2024-12-16 at 18 11 50 (1)](https://github.com/user-attachments/assets/f
-![WhatsApp Image 2024-12-16 at 18 11 51](https://github.com/user-attachments/assets/06b5ea2a-5d55-47de-b692-ee1d164c3a7a)
-ca139dd-dff0-4580-8a3b-ca5b0475ec85)
-![WhatsApp Image 2024-12-16 at 18 11 51 (1)](https://github.com/user-attachments/assets/c7db7b74-fae7-4bcc-8e35-879361a6056c)
-![WhatsApp Image 2024-12-16 at 18 11 51 (2)](https://github.com/user-attachments/assets/ec840294-0572-4fa2-a736-3112be05368c)
 
 
